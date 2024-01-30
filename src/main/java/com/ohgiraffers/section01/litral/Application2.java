@@ -1,8 +1,6 @@
 package com.ohgiraffers.section01.litral;
 
-import com.sun.security.jgss.GSSUtil;
-
-public class Applisation2 {
+public class Application2 {
 
     public static void main(String[] args) {
 
